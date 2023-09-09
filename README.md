@@ -1,8 +1,7 @@
 # My ASP.NET-CORE-Model-View-Controller-WebApp
 # With Docker
 
-Right now if you run this it will display the default page.https://github.com/DavesCodeData/ASP.NET-CORE-Model-View-Controller-WebApp
-
+Right now if you run this it will display the default page.
 ![WebsiteHomePage](ASP.NET-CORE-Model-View-Controller/wwwroot/pngs/homepage.png)
 
 # How to run on Microsoft Visual Studio
