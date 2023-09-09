@@ -18,6 +18,11 @@ namespace ASP.NET_CORE_Model_View_Controller.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
