@@ -3,7 +3,7 @@
 
 Right now if you run this it will display the default page.https://github.com/DavesCodeData/ASP.NET-CORE-Model-View-Controller-WebApp
 
-![WebsiteHomePage](wwwroot/pngs/homepage.png)
+![WebsiteHomePage](wwwroot/pngs/homescreen.png)
 
 # How to run on Microsoft Visual Studio
 
