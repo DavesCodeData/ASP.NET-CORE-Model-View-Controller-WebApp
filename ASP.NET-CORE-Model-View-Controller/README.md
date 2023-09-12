@@ -16,3 +16,6 @@ If you don't know how to open the terminal and you are using Microsoft Visual St
 Step 3: Press start without debugging or `Ctrl + f5`.
 
 Step 4: Then go into your Docker image and toggle run.
+
+Also, make sure to add a table to connect to in your PostgreSQL database. Go to the go to appsettings.json and under
+Default Connection change the data to match your database.
